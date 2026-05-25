@@ -1,0 +1,8 @@
+{
+    "name": "mainutils-service",
+    "version": "1.0.812",
+    "private": false,
+    "environment": "production",
+    "build_id": 556,
+    "allow_public_access": true
+}
